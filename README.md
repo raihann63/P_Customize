@@ -1,3 +1,6 @@
+<h1 align="center">Assalamu Alaikum</h1>
+<h3 align="center">Unlock the Power of Data</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihann63&label=Profile%20views&color=0e75b6&style=flat" alt="raihann63" /> </p>
 
 - 🌱 I’m currently learning **DATA SCIENCE/ML**
