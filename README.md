@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **DATA SCIENCE/ML**
 
-- 👨‍💻 Student at [University of Dhaka](University of Dhaka)
+- 👨‍💻 Student at University of Dhaka
 
 - 💬 Let's go discuss anything about **Python, Data Science & Mechine Learning**
 
-- 📫 Reach me on **https://www.linkedin.com/in/raihan63/**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/raihan63/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
