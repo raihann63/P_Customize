@@ -1,9 +1,13 @@
-<h1 align="center">Hi, I am Md. RAIHAN ALI</h1>
-<h3 align="center">Learn Data Science</h3>
+<h1 align="center">Assalamu Alaikum</h1>
+<h3 align="center">Unlock the Power of Data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihann63&label=Profile%20views&color=0e75b6&style=flat" alt="raihann63" /> </p>
 
 - 🌱 I’m currently learning **DATA SCIENCE/ML**
+
+- 👨‍💻 Student at [University of Dhaka](University of Dhaka)
+
+- 💬 Let's go discuss anything about **Python, Data Science & Mechine Learning**
 
 - 📫 Reach me on **https://www.linkedin.com/in/raihan63/**
 
@@ -17,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raihann63&show_icons=true&locale=en&layout=compact" alt="raihann63" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raihann63&show_icons=true&locale=en" alt="raihann63" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihann63&" alt="raihann63" /></p>
