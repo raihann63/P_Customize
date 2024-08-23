@@ -9,7 +9,7 @@
 
 - 💬 Let's go discuss anything about **Python, Data Science & Mechine Learning**
 
-- 📫 Reach me on **https://www.linkedin.com/in/raihan63/**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/raihan63/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
