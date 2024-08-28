@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihann63&label=Profile%20views&color=0e75b6&style=flat" alt="raihann63" /> </p>
 
-- 🌱 I’m currently learning **DATA SCIENCE/ML**
+- 🌱 I’m currently learning ** DATA SCIENCE/ML **
 
 - 👨‍💻 Student at University of Dhaka
 
