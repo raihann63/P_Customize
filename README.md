@@ -10,7 +10,7 @@
 
 - 👨‍💻 Student at University of Dhaka
 
-- 💬 Let's go discuss anything about **Python, Data Science & Mechine Learning**
+- 💬 Now Let's go discuss anything about **Python, Data Science & Mechine Learning**
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/raihan63/)
 
